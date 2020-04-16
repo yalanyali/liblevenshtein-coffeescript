@@ -25,10 +25,7 @@
   		"email": "dylon.edwards@gmail.com"
   	}
   ],
-  "main": "./lib/liblevenshtein/index",
-  "directories": {
-  	"lib": "./lib/liblevenshtein"
-  },
+  "main": "./src/index",
   "repository": {
     "type": "git",
     "url": "https://github.com/dylon/liblevenshtein-coffeescript.git"
