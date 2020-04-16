@@ -26,10 +26,6 @@
   	}
   ],
   "main": "./src/index",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dylon/liblevenshtein-coffeescript.git"
-  },
   "scripts": {
   	"test": "node ./node_modules/coffee-script/bin/cake test"
   }
