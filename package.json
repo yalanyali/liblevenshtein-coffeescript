@@ -41,7 +41,7 @@
     "seed-random": "~2.2.0"
   },
   "engines": {
-    "node": "~0.10.26"
+    "node": "^0.10.26"
   },
   "scripts": {
   	"test": "node ./node_modules/coffee-script/bin/cake test"
